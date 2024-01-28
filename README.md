@@ -13,3 +13,11 @@
 
 ##### WBTC Contract (WBTC) address: 
 0x9ca326587836b65Ee0f1257d63DfE22f3A060fff
+###
+### wDNERO and wDTOKEN - Wrapped Contracts
+
+##### WDnero address: 
+0x88e8ec59e782c3e7843ed45e128152707b30d78e
+
+##### WDToken address: 
+0x2475aC6CB4CbB358F941Ac91Bd52c9f510A6C55b
